@@ -1,5 +1,5 @@
 # Opportunistic_spinlocks
-1) Doenload the kernel version from https://www.kernel.org/
+1) Download the kernel version from https://www.kernel.org/
 2) Extract the files
 3) Open folder
 4) Go to arch/x86/include/asm
