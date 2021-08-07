@@ -18,7 +18,7 @@ It introduces two new concepts:
 5) Replace our file with old spinlock.
 6) Follow the following steps to compile and boot into the new kernel.
 
-**For kernel compilation**
+**FOR KERNEL COMPILATION**
 
 1) tar xvf linux-4.4.274.tar.xz  // Unzip folder
 2) sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison   // Install essential packages
