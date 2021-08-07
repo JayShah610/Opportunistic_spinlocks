@@ -1,8 +1,11 @@
 # Opportunistic_spinlocks
 
 **Implementation**
+
 Here we have implemented the Opportunistic spin lock which is the modification on the current paravirtual spinlock. 
+
 It introduces two new concepts:
+
 1) Oppertunistic Spinning 
 2) Oppertunistic Wakeup
 
