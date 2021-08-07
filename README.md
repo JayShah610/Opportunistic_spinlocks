@@ -35,4 +35,4 @@ It introduces two new concepts:
 
 **RESULT**
 
-It reduces the number of halt instruction compared to the paravirtual spin lock as the number of vCPU increases after 30.
+Opportunistic spin lock reduces the number of halt instruction compared to the paravirtual spin lock as the number of vCPU increases after 30.
