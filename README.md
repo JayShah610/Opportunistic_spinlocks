@@ -1,6 +1,6 @@
 # Opportunistic_spinlocks
 
-**Implementation**
+**IMPLEMENTATION**
 
 Here we have implemented the Opportunistic spin lock which is the modification on the current paravirtual spinlock. 
 
@@ -8,6 +8,8 @@ It introduces two new concepts:
 
 1) Oppertunistic Spinning 
 2) Oppertunistic Wakeup
+
+**SETUP**
 
 1) Download the kernel version from https://www.kernel.org/
 2) Extract the files
