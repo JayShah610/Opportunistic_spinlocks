@@ -32,3 +32,7 @@ It introduces two new concepts:
 8) sudo make install
 9) GRUB bootloader is the first program that runs when system powers on, Changed GRUB file so that new kernel boots.
 10) uname -mrs  // to verify the kernel version
+
+**RESULT**
+
+It reduces the number of halt instruction compared to the paravirtual spin lock as the number of vCPU increases after 30.
